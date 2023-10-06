@@ -17,7 +17,7 @@
 
 
   
-<h3 style="text-align: center;">Languages and Tools:</h3>
+<h3 style="text-align: center;">🌐 Languages and Tools:</h3>
 <a  target="_blank"> <img align="left" src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/c%23/c%23.png" alt="csharp" height="42px"/> </a> 
 <a  target="_blank"> <img align="left" src="https://github.com/get-icon/geticon/blob/master/icons/visual-studio.svg" alt="tools" height="37px"/> </a> 
 <a  target="_blank"> <img align="left" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="tools" height="37px"/> </a> 
