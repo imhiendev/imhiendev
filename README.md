@@ -21,6 +21,10 @@
 <a  target="_blank"> <img align="left" src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/c%23/c%23.png" alt="csharp" height="42px"/> </a> 
 <a  target="_blank"> <img align="left" src="https://github.com/get-icon/geticon/blob/master/icons/visual-studio.svg" alt="tools" height="37px"/> </a> 
 <a  target="_blank"> <img align="left" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="tools" height="37px"/> </a> 
+<a  target="_blank"> <img align="left" src="https://github.com/get-icon/geticon/blob/master/icons/mysql.svg" alt="tools" height="37px"/> </a> 
+<a  target="_blank"> <img align="left" src="https://github.com/get-icon/geticon/blob/master/icons/sqlite.svg" alt="tools" height="37px"/> </a> 
+<a  target="_blank"> <img align="left" src="https://github.com/get-icon/geticon/blob/master/icons/dotnet.svg" alt="tools" height="37px"/> </a> 
+
 
 <br/>
 
@@ -39,4 +43,4 @@
 - 🔎 etc...
 
 <h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/sironho"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="sironho" /></a></p><br><br>
+<p><a href="https://ko-fi.com/sironho"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" width="160" alt="sironho" /></a></p><br><br>
