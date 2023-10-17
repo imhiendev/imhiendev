@@ -42,5 +42,3 @@
 - 🎮 Play videogames
 - 🔎 etc...
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/sironho"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" width="160" alt="sironho" /></a></p><br><br>
